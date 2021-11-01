@@ -147,6 +147,6 @@ public class MovieTheater {
 
             }
         }
-        System.out.println("The output is: \n" + outputLine);
+        System.out.println("The output file would look like: \n" + outputLine);
     }
 }
